@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicsOfSoftwareArchitectureDesign.iml" filepath="$PROJECT_DIR$/BasicsOfSoftwareArchitectureDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependency_inversion/dependency_inversion.iml" filepath="$PROJECT_DIR$/dependency_inversion/dependency_inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_segregation/interface_segregation.iml" filepath="$PROJECT_DIR$/interface_segregation/interface_segregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liskov_substitution/liskov_substitution.iml" filepath="$PROJECT_DIR$/liskov_substitution/liskov_substitution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open_closed_principle/open_closed_principle.iml" filepath="$PROJECT_DIR$/open_closed_principle/open_closed_principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solid_principles/solid_principles.iml" filepath="$PROJECT_DIR$/solid_principles/solid_principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy_pattern/strategy_pattern.iml" filepath="$PROJECT_DIR$/strategy_pattern/strategy_pattern.iml" />
+    </modules>
+  </component>
+</project>
