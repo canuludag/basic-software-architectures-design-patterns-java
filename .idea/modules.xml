@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/interface_segregation/interface_segregation.iml" filepath="$PROJECT_DIR$/interface_segregation/interface_segregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator_pattern/iterator_pattern.iml" filepath="$PROJECT_DIR$/iterator_pattern/iterator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/liskov_substitution/liskov_substitution.iml" filepath="$PROJECT_DIR$/liskov_substitution/liskov_substitution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/null_object_pattern/null_object_pattern.iml" filepath="$PROJECT_DIR$/null_object_pattern/null_object_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer_pattern/observer_pattern.iml" filepath="$PROJECT_DIR$/observer_pattern/observer_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/open_closed_principle/open_closed_principle.iml" filepath="$PROJECT_DIR$/open_closed_principle/open_closed_principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/solid_principles/solid_principles.iml" filepath="$PROJECT_DIR$/solid_principles/solid_principles.iml" />
