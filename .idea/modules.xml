@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BasicsOfSoftwareArchitectureDesign.iml" filepath="$PROJECT_DIR$/BasicsOfSoftwareArchitectureDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter_pattern/adapter_pattern.iml" filepath="$PROJECT_DIR$/adapter_pattern/adapter_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder_pattern/builder_pattern.iml" filepath="$PROJECT_DIR$/builder_pattern/builder_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/command_pattern_1/command_pattern_1.iml" filepath="$PROJECT_DIR$/command_pattern_1/command_pattern_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/command_pattern_2/command_pattern_2.iml" filepath="$PROJECT_DIR$/command_pattern_2/command_pattern_2.iml" />
