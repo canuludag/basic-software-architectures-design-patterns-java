@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/dao_pattern/dao_pattern.iml" filepath="$PROJECT_DIR$/dao_pattern/dao_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator_pattern/decorator_pattern.iml" filepath="$PROJECT_DIR$/decorator_pattern/decorator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/dependency_inversion/dependency_inversion.iml" filepath="$PROJECT_DIR$/dependency_inversion/dependency_inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade_pattern/facade_pattern.iml" filepath="$PROJECT_DIR$/facade_pattern/facade_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_pattern/factory_pattern.iml" filepath="$PROJECT_DIR$/factory_pattern/factory_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface_segregation/interface_segregation.iml" filepath="$PROJECT_DIR$/interface_segregation/interface_segregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator_pattern/iterator_pattern.iml" filepath="$PROJECT_DIR$/iterator_pattern/iterator_pattern.iml" />
